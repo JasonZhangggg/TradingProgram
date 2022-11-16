@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="jooq-3.17.5">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Documents/StockTradingJooq/jooq-3.17.5.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/StockTradingJooq/reactive-streams-1.0.3.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/StockTradingJooq/r2dbc-spi-0.9.1.RELEASE.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/StockTradingJooq/mysql-connector-j-8.0.31.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
